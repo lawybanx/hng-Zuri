@@ -1,0 +1,17 @@
+{
+  "name": "hng-zuri",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "author": "Muhammad-awwal Bankole",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
