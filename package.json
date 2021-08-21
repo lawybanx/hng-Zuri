@@ -7,9 +7,6 @@
     "start": "node app.js",
     "server": "nodemon app.js"
   },
-  "engines": {
-   "node": "12.11.1"
-   },
   "author": "Muhammad-awwal Bankole",
   "license": "ISC",
   "dependencies": {
