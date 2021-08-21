@@ -1,5 +1,5 @@
 // Bring in Model
-const Contact = require('../model/Contact');
+const Contact = require('../model/contact');
 
 exports.postContact = async (req, res, next) => {
   const { name, email, subject, message } = req.body;
